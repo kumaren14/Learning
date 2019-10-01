@@ -1,5 +1,5 @@
 # "Hello"
-# " I'm an octotorne"
+# " I'm an octothorne"
 # "With me you can take notes that don't affect your code"
 # "Let's have some fun
 
