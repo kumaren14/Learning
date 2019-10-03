@@ -62,4 +62,16 @@ print("We can transport", carpool_capacity, "people today.")
 print("We have", passengers, "to carpool today")
 print("We need to put about", average_passengers_per_car, " in each car.")
 
+myName = "Kumaren"
+myHeight = "66"
+myEyes = "Brown"
+myHair = "Black"
+
+print("Lets talk about %s." % myName)
+print("He's %s inches tall." % myHeight)
+print("He's got %s eyes." % myEyes)
+print("His hair is %s." % myHair)
+
+
+
 print("Red flower with a green stem")
